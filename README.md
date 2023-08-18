@@ -3,10 +3,10 @@
 ## Requirements
 ```
 torch (1.12.1)
-opencv-python
-Pillow
-numpy
-matplotlib
+opencv-python (4.6.0)
+Pillow (9.2.0)
+numpy (1.23.1)
+matplotlib (3.5.3)
 ```
 
 ## Running the Code
