@@ -1,8 +1,5 @@
 # KnotArt
 
-
-## Usage
-
 For running the ellipse renderer
 ```
 python main.py
