@@ -1,12 +1,13 @@
 # KnotArt
 
 ## Requirements
-
+```
 torch (1.12.1)
 opencv-python
 Pillow
 numpy
 matplotlib
+```
 
 ## Running the Code
 
