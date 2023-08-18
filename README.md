@@ -40,6 +40,12 @@ python main.py --renderer_type capsule --num_samp 100
 ## Results
 
 
+![](https://github.com/aalok1993/KnotArt/blob/main/assets/Optimization_Evolution.gif)
+
+![](https://github.com/aalok1993/KnotArt/blob/main/assets/Spatiotemporal_Knots_Front_View.gif) ![](https://github.com/aalok1993/KnotArt/blob/main/assets/Spatiotemporal_Knots_Side_View.gif)
+
+
+
 <table width="100%">
   <tr><td colspan=2 style="text-align: center;">Optimization Evolution</td></tr>
   <tr>
