@@ -67,9 +67,6 @@ if __name__ == '__main__':
     parser.add_argument('--num_layers', type=int, default=8, help='number of layers in INN')
     parser.add_argument('--hidden_size', type=int, default=1024, help='number of hidden units in each layer of INN')
 
-
-
-
     args = parser.parse_args()
 
     #### Optimization parameters
