@@ -2,18 +2,20 @@
 
 ## Requirements
 
-
-
+torch (1.12.1)
+opencv-python
+Pillow
+numpy
+matplotlib
 
 ## Running the Code
 
-For running the ellipse renderer
+For running with the ellipse renderer
 ```
 python main.py
 ```
 
-
-For running the capsule renderer
+For running with the capsule renderer
 ```
 python main.py --renderer_type capsule --num_samp 100
 ```
