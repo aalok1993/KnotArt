@@ -1,5 +1,12 @@
 # KnotArt
 
+## Requirements
+
+
+
+
+## Running the Code
+
 For running the ellipse renderer
 ```
 python main.py
@@ -10,6 +17,9 @@ For running the capsule renderer
 ```
 python main.py --renderer_type capsule --num_samp 100
 ```
+
+
+
 
 <table width="100%">
   <tr><td colspan=2 style="text-align: center;">Optimization Evolution</td></tr>
