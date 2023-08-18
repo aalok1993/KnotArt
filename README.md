@@ -1,6 +1,7 @@
 # KnotArt
 
-This repository contains the PyTorch code for "[Search Me Knot, Render Me Knot: Embedding Search and Differentiable Rendering of Knots in 3D](https://arxiv.org/abs/2307.08652)".
+This repository contains the PyTorch code for 
+"[Search Me Knot, Render Me Knot: Embedding Search and Differentiable Rendering of Knots in 3D](https://arxiv.org/abs/2307.08652)".
 
 ## Contents
 
