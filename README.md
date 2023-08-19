@@ -26,6 +26,13 @@ matplotlib (3.5.3)
 ```
 
 Installation commands
+
+```
+conda env create -f knotart.yml
+```
+
+OR
+
 ```
 conda create -n knotart python=3.9
 conda activate knotart
