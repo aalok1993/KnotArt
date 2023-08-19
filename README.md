@@ -39,7 +39,7 @@ pip install opencv-python==4.6.0.66 numpy matplotlib Pillow
 For running with the ellipse renderer
 ```
 python main.py
-c
+```
 
 For running with the capsule renderer
 ```
