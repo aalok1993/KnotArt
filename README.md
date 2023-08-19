@@ -25,12 +25,21 @@ numpy (1.23.1)
 matplotlib (3.5.3)
 ```
 
+Installation commands
+```
+conda create -n knotart python=3.9
+conda activate knotart
+conda install pytorch==1.12.1 torchvision==0.13.1 torchaudio==0.12.1 cudatoolkit=11.3 -c pytorch
+pip install opencv-python==4.6.0.66 numpy matplotlib Pillow
+```
+
+
 ## Usage
 
 For running with the ellipse renderer
 ```
 python main.py
-```
+c
 
 For running with the capsule renderer
 ```
