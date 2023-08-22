@@ -65,8 +65,8 @@ python main.py --renderer_type capsule --num_samp 100
     <td><img src="https://github.com/aalok1993/KnotArt/blob/main/assets/ResultsWithoutConstraints.png"/></td>
   </tr>
   <tr>
-    <th><center>Alphabetical Images</center></th>
-    <th><center>Dancing Person Image Sequence</center></th>
+    <th><center>Results with constraints</center></th>
+    <th><center>Results without constraints</center></th>
   </tr>
 </table>
 
