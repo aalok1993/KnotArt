@@ -31,7 +31,7 @@ We introduce the problem of knot-based inverse perceptual art. Given multiple ta
 
 ## Installation
 
-Following are the requirements:
+### Requirements 
 ```
 torch (1.12.1)
 opencv-python (4.6.0)
@@ -40,7 +40,7 @@ numpy (1.23.1)
 matplotlib (3.5.3)
 ```
 
-Installation commands
+### Installation commands
 
 ```
 conda env create -f knotart.yml
