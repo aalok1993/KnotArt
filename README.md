@@ -60,6 +60,20 @@ python main.py --renderer_type capsule --num_samp 100
 ## Results
 
 <table width="100%">
+  <tr>
+    <td><img src="https://github.com/aalok1993/KnotArt/blob/main/assets/ResultsWithConstraint.png"/></td>
+    <td><img src="https://github.com/aalok1993/KnotArt/blob/main/assets/ResultsWithoutConstraints.png"/></td>
+  </tr>
+  <tr>
+    <th><center>Alphabetical Images</center></th>
+    <th><center>Dancing Person Image Sequence</center></th>
+  </tr>
+</table>
+
+
+
+
+<table width="100%">
   <th colspan=2><center>Optimization Evolution</center></th>
   <tr>
     <td colspan=2><img src="https://github.com/aalok1993/KnotArt/blob/main/assets/Optimization_Evolution.gif"/></td>
